@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Gudeg",
+        "desc": "Gudeg merupakan makanan khas Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Biasanya, seporsi nasi gudeg disajikan lengkap dengan krecek, ayam kuah santan, hingga telur.",
+        "imagePath": "gudeg.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bakpia",
+        "desc": "Bakpia adalah makanan yang terbuat dari campuran kacang hijau dengan gula yang dibungkus dengan tepung lalu dipanggang. Isi bakpia saat ini sangat variatif, tidak hanya menyajikan rasa kacang hijau melainkan coklat, keju dan kumbu hitam.",
+        "imagePath": "bakpia.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jadah Tempe",
+        "desc": "Jadah Tempe sesungguhnya merupakan gabungan dari dua jenis makanan yaitu jadah yang merupakan olahan dari ketan dan tempe ataupun tahu. Baik tempe atau tahunya biasanya diolah dengan cara dibacem.",
+        "imagePath": "jadah_tempe.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Oseng Mercon",
+        "desc": "Oseng-oseng mercon merupakan sejenis tumisan yang memadukan tetelan (potongan kecil daging sapi) dan koyoran (lemak daging sapi) dengan potongan cabai rawit dan bumbu-bumbu lainnya. Rasa yang luar biasa pedas akan Anda temui jika menyantap masakan yang satu ini.",
+        "imagePath": "oseng_mercon.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sate Klatak",
+        "desc": "Sate klatak adalah sate daging kambing muda yang ditusuk dengan jeruji sepeda. Tusukannya bukan tusukan bambu biasa dan ukuran potongan daging kambingnya lebih besar tiga kali dari sate biasa.",
+        "imagePath": "sate_klatak.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Belalang Goreng",
+        "desc": "Belalang goreng adalah makanan berbahan dasar belalang yang diolah warga Gunungkidul dan dapat dijadikan sebagai sumber protein. Jenis belalang yang digunakan ialah belalang kayu dan belalang padi, yang pada umumnya menjadi hama perusak tanaman.",
+        "imagePath": "belalang_goreng.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Ayam Kentucky",
+        "desc": "Ayam goreng merupakan hidangan yang dibuat dari potongan daging ayam yang telah dilapisi dengan tepung yang dibumbui dan digoreng. Penepungan menambahkan lapisan renyah atau kerak ke bagian luar ayam sekaligus mempertahankan kelembutan dan air dalam daging.",
+        "imagePath": "ayam_kentucky.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sate Kere",
+        "desc": "Sate Kere terbuat dari koyor sapi atau gajih sapi yang diolah dengan bumbu tertentu, sehingga saat dibakar menghasilkan aroma yang menggugah selera. Tidak hanya aroma, rasanya pun tidak kalah dengan daging lainya.",
+        "imagePath": "sate_kere.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Mie Lethek",
+        "desc": "Mie lethek merupakan salah satu kuliner mie yang berasal dari Srandakan, Bantul, Yogyakarta dengan menggunakan bahan dasar tepung tapioka dan singkong Proses produksi mie lethek masih dengan menggunakan cara yang tradisional. Sebutan lethek ini muncul karena mie lethek memiliki warna yang keruh kecoklatan dan kurang menarik, tidak seperti mie pada umumnya.",
+        "imagePath": "mie_lethek.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Geblek",
+        "desc": "makanan tradisional yang dibuat dari bahan tepung tapioka dan bumbu bawang yang digoreng gurih. Bentuknya seperti angka delapan berwarna putih bersih dan diolah dengan cara digoreng.",
+        "imagePath": "geblek.png",
+        "resto": [
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            },
+            {
+                "name": "Gudeg Yu Djum",
+                "address": "Jl. Wijilan No.167, Panembahan, Kecamatan Kraton, Daerah Istimewa Yogyakarta 55131"
+            }
+        ]
+    }
+]
